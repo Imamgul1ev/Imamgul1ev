@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Magamed Imamguliev
 
-I'm **Magamed Imamguliev**, a **Computer Science student at Università degli Studi di Messina**, focusing on **Data Analysis**. My studies cover **Object-Oriented Programming, Databases, Computer Networks, and Statistical Modeling**. I’ve worked on projects like **Bayesian Statistics for food price forecasting, a Gradient Descent algorithm, and a P2P Network with a Rendezvous Server**. I also developed an **E-Commerce Database Management System** under **Antonio Celesti**, using **MySQL, XAMPP, and Lucid.app** for relational database design.  
+I'm **Magamed Imamguliev**, a **Computer Science student at Università degli Studi di Messina**, focusing on **Data Analysis**. My studies cover **Object-Oriented Programming, Databases, Computer Networks, and Statistical Modeling**. I’ve worked on projects like **Bayesian Statistics for food price forecasting, a Gradient Descent algorithm, and a P2P Network with a Rendezvous Server**.
 
 ## 🎓 Education & Experience
 
